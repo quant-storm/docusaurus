@@ -1,0 +1,17 @@
+team_quant_storm:
+  name: Quant Storm Development Team
+  title: The Powerhouse Behind Quant Storm Ecosystem
+  url: https://github.com/quant-storm
+  image_url: https://github.com/quant-storm.png
+  page: true
+  socials: 
+    github: quant-storm
+
+system:
+  name: Quant Storm System
+  title: The Backbone of Quant Storm's High-Performance Infrastructure
+  url: https://github.com/quant-storm
+  image_url: https://github.com/quant-storm.png
+  page: true
+  socials: 
+    github: quant-storm

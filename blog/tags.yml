@@ -1,0 +1,39 @@
+quant_storm:
+  label: Quant Storm
+  permalink: /quant-storm
+  description: The ultimate ecosystem for traders, offering powerful tools, innovative strategies, and high-performance plugins.
+
+quantower:
+  label: Quantower
+  permalink: /quantower
+  description: Central hub for all Quantower plugins, strategies, and resources.
+
+plugin:
+  label: Plugin
+  permalink: /plugin
+  description: Collection of plugins available for installation on Quantower platform.
+
+indicator:
+  label: Indicator
+  permalink: /indicator
+  description: Various technical indicators for Quantower users to enhance their trading strategies.
+
+strategy:
+  label: Strategy
+  permalink: /strategy
+  description: Trading strategies for Quantower to automate or enhance user experience.
+
+theme:
+  label: Theme
+  permalink: /theme
+  description: Custom themes for Quantower, allowing users to personalize their trading environment.
+
+tutorials:
+  label: Tutorials
+  permalink: /tutorials
+  description: Step-by-step guides and tutorials to help users get the most out of Quantower and its features.
+
+api:
+  label: API
+  permalink: /api
+  description: Documentation and resources for interacting with Quantower's API for advanced users.
